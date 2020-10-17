@@ -1,0 +1,89 @@
+Sub-Competencia: 
+	Aplicar funciones de manera adecuada para segmentar el codigo y mantener reusabilidad y modularidad 
+
+Error original: No entender las funciones y no agregarlas al proyecto: 
+
+	
+
+Cambio realizado: Conozco las funciones y han sido implementadas a mi proyecto
+
+def minutos(a,b):
+    
+    return a * b / 60
+
+res=(minutos(episodios,tiempo))
+
+Líneas de código donde se ve la corrección: 29 a 37 
+					    47 a 55
+					    95 a 99	
+					    137 a 145
+						272 a 278
+						284 a 290
+						298 a 304					
+____________________________________________________________________________________________________________________
+Sub-Competencia: 
+	El estilo cumple con las norams y estandares enunciadas en el documento de PEP 8
+
+Error original: Habia hecho el programa ilegible, no tome en cuenta el formato PEP 8: 
+
+	#estos son los contadores y acumuladores para el ciclo y se pueda registrar los inputs por medio externo del ciclo
+
+Cambio realizado:  Ahora las lineas son menores a 79 caracteres y hay un espacio entre cada linea
+
+	#Contadores y acumuladores para el ciclo 
+
+	#Ayudan a registrar los input externamente
+
+Líneas de código donde se ve la corrección: 0, 300
+
+_________________________________________________________________________________________________________________
+
+Sub-Competencia: 
+	Plantea una situacion problema que le permite aplicar y demostrar los conocimientos de programacion 
+
+Error original: ser muy ambiguo en la explicacion: 
+
+	
+
+Cambio realizado: Todo read.me ha sido modificado y explica completamente el funcionamiento del programa
+
+
+
+Líneas de código donde se ve la corrección: Read.me
+_____________________________________________________________________________________________________________________
+Sub-Competencia: 
+	Utiliza una biblioteca extra en python que investiga por su cuenta  
+
+Error original: no tener biblioteca extra: 
+
+	
+
+Cambio realizado: Se ha agregado un import datetime 
+
+	import datetime
+
+Líneas de código donde se ve la corrección: 13
+
+______________________________________________________________________________________
+Sub-Competencia: 
+	Explicar la biblioteca extra 
+
+Error original: no tener biblioteca extra: 
+	
+	
+
+Cambio realizado: Se ha agregado un import datetime 
+
+	#Esta es la biblioteca extra que he investigado
+
+	#utilizado para ayudar al usuario a agendar su reunion en modo fiesta
+
+	#datetime toma la fecha y hora exacta del sistema
+
+	#con ella puede ser impresa cruda
+
+	#tambien puede ser manipulada para agendar
+
+	# como agregar dias o quitar dias
+
+Líneas de código donde se ve la corrección: 1 a 11
